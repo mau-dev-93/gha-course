@@ -1,2 +1,2 @@
 # gha-course
-Repositorio para práctica de github actions
+Repositorio para práctica de github actions.
